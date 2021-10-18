@@ -2,14 +2,16 @@
 
 The repo contains code(s) created based on the Fortran templates provided for AST9240 -- Cosmology II course from University of Oslo. It consists of 4 projects in total:
 
-1. _The background evolution of the universe_
-2. _The recombination history of the universe_
-3. _The evolution of structures in the universe_
+1. _The background evolution of the Universe_
+2. _The recombination history of the Universe_
+3. _The evolution of structures in the Universe_
 4. _The CMB power spectrum_
 
 Reports for all 4 parts located in `reports` folder within this repo.
 
-The assignment itself together with total list of materials for the course can be found on official course page here:
+The assignments and some materials can be found inside `materials` folder within this repo.
+
+The total list of materials for the course can be found on official course page here:
 https://www.uio.no/studier/emner/matnat/astro/AST5220/v19/pensumliste/index.html
 
 ## Prerequisites
