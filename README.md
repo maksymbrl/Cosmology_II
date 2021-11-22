@@ -22,7 +22,7 @@ To install the code you need to have the following libraries preinstalled first:
 2. HEALPix;
 3. BLAS/LAPACK;
 
-You will also need to have a Fortran compiler. The primary compiler used was from Intel, but GNu Gfortran should also work, given the correct compielr flags.
+You will also need to have a Fortran compiler. The primary compiler used was from Intel, but GNU GFortran should also work, given the correct compiler flags.
 
 Once you installed all prerequisites, modify `Makefile` to incorporate the changes.
 
@@ -46,4 +46,4 @@ It will start all necessary processing. The resulting files will be stored insid
 
 To plot the results for each subproject, use `ipynb` contained within this repo.
 
-Note: you need to create `data` directory before you started processing otehrwise it will not work.
+Note: you need to create `data` directory before you started processing otherwise it will not work.
